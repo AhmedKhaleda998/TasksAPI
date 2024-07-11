@@ -22,6 +22,8 @@ This is a REST API for managing tasks. It allows users to organize tasks into ca
 
 ## Getting Started
 
+You can use this URL: https://tasks-api-chi-two.vercel.app/ instead of installation
+
 ### Prerequisites
 
 - Node.js
